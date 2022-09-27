@@ -1,0 +1,87 @@
+header{
+    background: rgb(119, 83, 155);
+    width: 86%;
+    margin: auto;
+    color: #fff;
+    line-height: 120px;
+    padding-left: 4%;
+}
+
+nav{
+    background: rgb(119, 83, 155);
+    line-height: 50px;
+    height: 50px;
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    padding: 0 auto; 
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    width: 60px;
+    float: left;
+    display: block;
+}
+
+#container{
+    width: 90%;
+    margin: auto;
+    min-height: 180px;
+    overflow: hidden;
+    background: white;
+    color: black;
+}
+.kiri{
+    width: 69%;
+    float: left;
+    margin: auto;
+    background: white;
+}
+.content{
+    border: 2px solid black;
+    margin-top: 1pc;
+    padding-bottom: 1pc;
+    padding-left: 2pc;
+    padding-right: 2pc;
+}
+.kanan{
+    width: 29%;
+    float: right;
+    margin: auto;
+    background: white;
+}
+.kanan h3 {
+    padding-bottom: 15px;
+    border-bottom: 1px solid black;
+  }
+  
+  .kanan ul {
+    list-style: none;
+  }
+  
+  .kanan ul li a {
+    text-decoration: none;
+    width: 60px;
+    display: block;
+    margin-bottom: 27px;
+    margin-left: -40px;
+  }
+  
+  footer {
+    background-color: black;
+    color: white;
+    padding-left: 4%;
+    margin: 0px auto;
+    width: 86%;
+  }
+  
+  footer p {
+    margin-left: -50px;
+    padding: 10px;
+  }
